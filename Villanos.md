@@ -2,5 +2,5 @@
 
 1. Dr. Doom
 2. Galactus
-3. Venom
-4. El Duende Verde
+3. El Duende Verde
+4. Carnage
