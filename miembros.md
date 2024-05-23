@@ -5,7 +5,6 @@
 * Falcon
 * Hank Pym
 * Hawkeye
-* Hulk
 * Luke Cage
 * QuickSilver
 * Scarlet Witch
